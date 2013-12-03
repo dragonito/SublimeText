@@ -1,0 +1,13 @@
+{
+	"phpcs_show_quick_panel": true,
+	"phpcs_execute_on_save": true,
+	"phpcs_executable_path": "/usr/bin/phpcs",
+	"phpcs_additional_args": {
+	    "--standard": "psr2",
+	    "-n": ""
+	},
+	"php_cs_fixer_executable_path": "/usr/local/bin/php-cs-fixer",
+	"phpcs_linter_run": true,
+	"phpmd_run": true,
+	"phpmd_executable_path": "/usr/bin/phpmd"
+}
