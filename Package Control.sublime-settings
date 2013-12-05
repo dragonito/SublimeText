@@ -1,0 +1,25 @@
+{
+	"installed_packages":
+	[
+		"Bootstrap 3 Snippets",
+		"Doctrine Snippets",
+		"Emmet",
+		"Javascript Beautify",
+		"LiveStyle",
+		"Package Control",
+		"PHP Code Coverage",
+		"PHP Completions Kit",
+		"PHP Namespace Command",
+		"PHP-Twig",
+		"Phpcs",
+		"PhpDoc",
+		"PhpNamespace",
+		"PHPUnit",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"SublimeLinter",
+		"Tag",
+		"Web Inspector 3"
+	]
+}
+ 
