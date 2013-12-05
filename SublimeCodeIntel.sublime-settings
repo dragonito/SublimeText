@@ -1,0 +1,7 @@
+{
+    "PHP": {
+        "php": "c:\\php\\php.exe",
+        "phpExtraPaths": [],
+        "phpConfigFile": "c:\\php\\php.ini"
+    }
+}
