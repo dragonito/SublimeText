@@ -1,13 +1,34 @@
 {
-	"phpcs_show_quick_panel": true,
-	"phpcs_execute_on_save": true,
-	"phpcs_executable_path": "/usr/bin/phpcs",
-	"phpcs_additional_args": {
-	    "--standard": "psr2",
-	    "-n": ""
-	},
-	"php_cs_fixer_executable_path": "/usr/local/bin/php-cs-fixer",
-	"phpcs_linter_run": true,
-	"phpmd_run": true,
-	"phpmd_executable_path": "/usr/bin/phpmd"
+    "show_debug": true,
+    "extensions_to_execute": ["php"],
+    "extensions_to_blacklist": ["twig.php"],
+    "phpcs_execute_on_save": true,
+    "phpcs_show_errors_on_save": true,
+    "phpcs_show_gutter_marks": true,
+    "phpcs_outline_for_errors": true,
+    "phpcs_show_errors_in_status": true,
+    "phpcs_show_quick_panel": true,
+    "phpcs_php_prefix_path": "C:\\php\\php.exe",
+    "phpcs_commands_to_php_prefix": ["Fixer"],
+    "phpcs_sniffer_run": true,
+    "phpcs_command_on_save": true,
+    "phpcs_executable_path": "C:\\php\\phpcs.bat",
+    "phpcs_additional_args": {
+        "--standard": "PSR2",
+        "-n": ""
+    },
+    "php_cs_fixer_on_save": false,
+    "php_cs_fixer_show_quick_panel": true,
+    "php_cs_fixer_executable_path": "C:\\php\\php-cs-fixer.phar",
+    "php_cs_fixer_additional_args": {
+        "--level": "all"
+    },
+    "phpcs_linter_run": true,
+    "phpcs_linter_command_on_save": true,
+    "phpcs_php_path": "C:\\PHP\\php.exe",
+    "phpcs_linter_regex": "(?P<message>.*) on line (?P<line>\\d+)",
+    "phpmd_run": false,
+    "phpmd_command_on_save": false,
+    "phpmd_executable_path": "",
+    "phpmd_additional_args": {}
 }
