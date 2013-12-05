@@ -1,7 +1,9 @@
 SublimeText
 ===========
 
-SublimeText Configs and used Extensions:
+My special configuration for developing php, js, html and css
+
+SublimeText configs and extensions:
 
 Extensions / Plugins:
 
