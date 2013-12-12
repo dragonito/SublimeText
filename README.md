@@ -7,15 +7,22 @@ SublimeText configs and extensions:
 
 Extensions / Plugins:
 
-- Emmet 
+- Bootstrap 3 Snippets
+- Doctrine Snippets
+- Emmet
 - Javascript Beautify
-- Emmet Livestyle
-- PHP Code Sniffer (phpcs)
-- PHP Namespace
-- PHPunit
+- LiveStyle
+- Package Control
+- PHP Code Coverage
+- PHP Completions Kit
+- PHP Namespace Command
+- PHP-Twig
+- Phpcs
+- PhpDoc
+- PhpNamespace
+- PHPUnit
 - SublimeCodeIntel
+- sublimelint
 - SublimeLinter
 - Tag
 - Web Inspector 3
- 
-
