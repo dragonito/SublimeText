@@ -26,3 +26,7 @@ Extensions / Plugins:
 - SublimeLinter
 - Tag
 - Web Inspector 3
+
+## Some Keystrokes
+
+- Comment a line or block: strg+#
