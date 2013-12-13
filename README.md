@@ -31,6 +31,7 @@ Extensions / Plugins:
 
 ### Windows
 - Comment a line or block: strg+#
+- Open console strg+` on german keyboard strg+ö
 
 ### Mac
 - Delete Line: shift+alt+k
