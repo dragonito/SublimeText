@@ -29,4 +29,5 @@ Extensions / Plugins:
 
 ## Some Keystrokes
 
+### Windows
 - Comment a line or block: strg+#
