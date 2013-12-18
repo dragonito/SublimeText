@@ -7,6 +7,7 @@ SublimeText configs and extensions:
 
 Extensions / Plugins:
 
+- Sublime Alignment
 - Bootstrap 3 Snippets
 - Doctrine Snippets
 - Emmet
@@ -32,6 +33,7 @@ Extensions / Plugins:
 ### Windows
 - Comment a line or block: strg+#
 - Open console strg+` on german keyboard strg+ö
+- For Sublime Aligment strg+alt+a on windows
 
 ### Mac
 - Delete Line: shift+alt+k
