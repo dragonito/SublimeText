@@ -7,6 +7,7 @@ SublimeText configs and extensions:
 
 Extensions / Plugins:
 
+- Trail­ing­Spaces (new)
 - Sublime Alignment
 - Bootstrap 3 Snippets
 - Doctrine Snippets
