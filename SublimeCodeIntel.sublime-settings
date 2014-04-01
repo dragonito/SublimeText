@@ -3,5 +3,6 @@
         "php": "c:\\php\\php.exe",
         "phpExtraPaths": [],
         "phpConfigFile": "c:\\php\\php.ini"
-    }
+    },
+    "codeintel_disabled_languages": ["javascript", "css"]
 }
