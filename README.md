@@ -7,27 +7,15 @@ SublimeText configs and extensions:
 
 Extensions / Plugins:
 
-- Trail­ing­Spaces (new)
-- Sublime Alignment
-- Bootstrap 3 Snippets
-- Doctrine Snippets
+- Alignment
+- BracketHighlighter
+- DocBlockr
 - Emmet
-- Javascript Beautify
-- LiveStyle
-- Package Control
-- PHP Code Coverage
-- PHP Completions Kit
-- PHP Namespace Command
 - PHP-Twig
 - Phpcs
-- PhpDoc
-- PhpNamespace
-- PHPUnit
 - SublimeCodeIntel
-- sublimelint
 - SublimeLinter
 - Tag
-- Web Inspector 3
 
 ## Some Keystrokes
 
