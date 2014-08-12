@@ -8,6 +8,7 @@ SublimeText configs and extensions:
 Extensions / Plugins:
 
 - Alignment
+- GitGutter Edge
 - BracketHighlighter
 - DocBlockr
 - Emmet
