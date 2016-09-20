@@ -4,16 +4,18 @@
 	"caret_extra_top": 3,
 	"caret_extra_width": 2,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Seti_UX/Seti.tmTheme",
+	"color_scheme": "Packages/Theme - Seti Monokai/scheme/Seti Monokai.tmTheme",
 	"default_line_ending": "unix",
-	"fade_fold_buttons": true,
+	"draw_white_space": "all",
+	"fade_fold_buttons": false,
 	"fallback_encoding": "UTF-8",
 	"file_exclude_patterns":
 	[
 		"*.swp"
 	],
-	"font_face": "Source Code Pro",
-	"font_size": 16,
+	"font_face": "Knack Nf",
+	"font_size": 12,
+	"font_options": ["subpixel_antialias"], // bold, italic, no_antialias, gray_antialias, subpixel_antialias, directwrite
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignore_inodes": true,
@@ -23,6 +25,11 @@
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		80
+	],
 	"shift_tab_unindent": true,
 	"show_encoding": true,
 	"show_panel_on_build": false,
@@ -31,5 +38,8 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"vintage_start_in_command_mode": false,
-	"word_wrap": "false"
+	"word_wrap": "false",
+	"wrap_width": 120,
+	"save_on_focus_lost": true,
+	"spell_check": false
 }
